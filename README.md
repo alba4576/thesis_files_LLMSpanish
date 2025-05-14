@@ -5,6 +5,10 @@ https://huggingface.co/ale-b/mbert_dialect/tree/main
 
 This repository hold the output predictions and translations for both DId and MT.
 
+The scripts used for mBERT and Llama tasks are in "Scripts"
+
+Data used for testing is located in "Data"
+
 Models used:
 
 * mBERT: DId
